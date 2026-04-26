@@ -1,8 +1,12 @@
 {
   "name": "glowpost-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for GlowPost — AI content generation for Blog, X, LinkedIn, Newsletter & Instagram",
   "main": "dist/index.js",
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "bin": {
     "glowpost-mcp": "dist/index.js"
   },
