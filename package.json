@@ -1,6 +1,6 @@
 {
   "name": "glowpost-mcp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server for GlowPost — AI content generation for Blog, X, LinkedIn, Newsletter & Instagram",
   "main": "dist/index.js",
   "files": [
@@ -16,7 +16,17 @@
     "dev": "tsx src/index.ts",
     "prepublishOnly": "npm run build"
   },
-  "keywords": ["mcp", "ai", "content", "glowpost", "blog", "twitter", "linkedin", "newsletter", "instagram"],
+  "keywords": [
+    "mcp",
+    "ai",
+    "content",
+    "glowpost",
+    "blog",
+    "twitter",
+    "linkedin",
+    "newsletter",
+    "instagram"
+  ],
   "author": "OrbitLabs <support@orbitlabs.kr>",
   "license": "MIT",
   "repository": {
